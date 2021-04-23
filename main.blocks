@@ -18,18 +18,18 @@
 `</field><data>{"commentRefs":[],"fieldData":{"img":"BcUmk]{!jUxRS..z[hn@"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="{sd}$6*9BXauZp@C,*;o"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="game_control_sprite" id="3iu[?%iX%|,R{-$n}u0X"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="sprite"><block type="variables_get" id="h{$1JW}R!A@mY3{Oi/=E"><field name="VAR" id="r*,E,YD0O#RdY+I7S4,0">mySprite</field></block></value><next><block type="camerafollow" id="%pjr)$2cjIP..4p0sgol"><value name="sprite"><block type="variables_get" id="@i]2]{?tNes%RQ6/2y4Q"><field name="VAR" id="r*,E,YD0O#RdY+I7S4,0">mySprite</field></block></value><next><block type="variables_set" id="/Er.Y%pMIk0N:3vi%@r="><field name="VAR" id="oagwmw6.-N9u1SkB;26i">mySprite2</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="zhP]?=r1oK$T$}i?C~V,"><value name="img"><shadow type="screen_image_picker" id="7$c8:*=czLBR[;F,TA{P"><field name="img">img`
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
+. . . . . 7 7 7 7 . . . . . . . 
+. . 7 7 7 7 7 7 7 7 7 . . . . . 
+. . 7 7 7 7 7 7 7 7 7 . . . . . 
+. . 7 7 7 . 7 7 . 7 7 7 7 . . . 
+. . 7 7 . 7 7 7 7 7 7 7 7 7 . . 
+. . 7 7 7 7 7 7 7 . 7 7 . 7 . . 
+. . . 7 7 7 7 7 7 7 7 7 . 7 . . 
+. . . 7 7 7 7 7 7 7 7 7 . 7 . . 
+. . . . 7 7 7 7 . 7 7 7 . 7 . . 
+. . . . . 7 7 7 7 7 7 . . 7 . . 
+. . . . . . 7 7 . 7 7 . . 7 . . 
+. . . . . . . . 7 7 7 . 7 . . . 
+. . . . . . . . . . 7 7 7 . . . 
 . . . . . . . . . . . . . . . . 
 `</field><data>{"commentRefs":[],"fieldData":{"img":"7$c8:*=czLBR[;F,TA{P"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="-QCLR*US}}nnAy!#sq8="><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></next></block></next></block></next></block></statement></block></xml>
