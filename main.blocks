@@ -32,4 +32,4 @@
 . . . . . . . . 7 7 7 . 7 . . . 
 . . . . . . . . . . 7 7 7 . . . 
 . . . . . . . . . . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"myImages.image4"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="![i5h-E8+R2D@VTmud~W"><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></next></block></next></block></next></block></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"myImages.image4"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="![i5h-E8+R2D@VTmud~W"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="mixer_play_sound" id="5_E)V6-t:]u0]?A7qY]x"><field name="sound">music.baDing</field></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
